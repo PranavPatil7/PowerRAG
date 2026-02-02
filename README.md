@@ -1,5 +1,5 @@
-# Aby's Assistant: A Versatile LLM & RAG Chatbot
-Aby's Assistant is a powerful and user-friendly Streamlit web application designed to facilitate interactions with Large Language Models (LLMs) and manage knowledge bases using Retrieval Augmented Generation (RAG). It allows users to chat directly with local LLMs, query custom RAG memories, and interact with PDF documents.
+# PowerRAG – LLM Driven Knowledge and Analytic Platform                                                     
+PowerRAG powerful and user-friendly Streamlit web application designed to facilitate interactions with Large Language Models (LLMs) and manage knowledge bases using Retrieval Augmented Generation (RAG). It allows users to chat directly with local LLMs, query custom RAG memories, and interact with PDF documents.
 
 ✨ Features
 This application offers four distinct modes of interaction, providing flexibility for various AI-powered tasks:
